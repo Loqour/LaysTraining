@@ -1122,8 +1122,8 @@ section {
     top: 80px;
   }
   .big-block {
-    -webkit-background-size: contain;
-            background-size: contain;
+    -webkit-background-size: cover;
+            background-size: cover;
     background-image: url("../img/big-block-bg-mobile.jpg");
     display: -webkit-box;
     display: -webkit-flex;
